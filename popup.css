@@ -1,0 +1,25 @@
+body {
+  width: 420px;
+  margin: 16px;
+  font-family: system-ui, sans-serif;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+pre {
+  max-height: 400px;
+  overflow: auto;
+  padding: 12px;
+  border-radius: 6px;
+  background: #1e1e1e;
+  color: #f5f5f5;
+  white-space: pre;
+}
+
+code {
+  font-family: monospace;
+  font-size: 12px;
+}
